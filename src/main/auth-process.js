@@ -24,7 +24,7 @@ function createAuthWindow() {
 
   const filter = {
     urls: [
-      'http://myapp/callback*'
+      'https://myapp/callback*'
     ]
   };
 
