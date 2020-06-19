@@ -10,7 +10,7 @@ const crypto = require('crypto');
 
 const { apiIdentifier, auth0Domain, clientId } = envVariables;
 
-const redirectUri = "http://myapp/callback";
+const redirectUri = "https://myapp/callback";
 
 const keytarService = "electron-openid-oauth";
 const keytarAccount = os.userInfo().username;
