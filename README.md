@@ -24,7 +24,7 @@ npm install
 ## Usage
 
 ```bash
-npm run
+npm start
 ```
 
 ## Contributing
