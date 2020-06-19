@@ -1,0 +1,20 @@
+{
+  "name": "electron-openid-oauth-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jwt-decode": "^2.2.0",
+    "keytar": "^6.0.1"
+  }
+}
