@@ -6,9 +6,9 @@ It is based on the following blog post [Securing Electron Applications with Open
 
 You will need to follow the blog post for details on configuring your application and API in your Auth0 tenant.
 
-This sample app uses http://myapp rather than http://localhost as per the blog post. This is to allow the consent screen in Auth0 to be bypassed.
+This sample app uses https://myapp rather than http://localhost as per the blog post. This is to allow the consent screen in Auth0 to be bypassed.
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) You will need to ensure http://myapp/callback is registered as an allow callback URL in your application in your Auth0 tenant
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) You will need to ensure https://myapp/callback is registered as an allow callback URL in your application in your Auth0 tenant
 
 ## Installation
 
